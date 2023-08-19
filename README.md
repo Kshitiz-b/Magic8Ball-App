@@ -1,16 +1,10 @@
 # magic_8ball
 
-A new Flutter project.
+## My 4-th Flutter Project
+This is a magic 8 ball. First you ask it any question out loud, then tap the screen and it will give you the answer.
+Then you can ask the next question and keep on asking. 😃<br>
+In this priject both Stateless and Stateful widgets were used.
 
-## Getting Started
+## Application Preview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Kshitiz-b/Magic-8Ball/assets/95609931/1c679d26-a19f-4d58-9de7-428c1129363e
